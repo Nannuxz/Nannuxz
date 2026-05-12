@@ -18,7 +18,7 @@ Atualmente desenvolvendo ferramentas voltadas para:
 - Monitoramento
 - APIs e automações
 
----
+
 <div align="center">
 
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nannuxz&show_icons=true&theme=tokyonight"/>
@@ -26,32 +26,32 @@ Atualmente desenvolvendo ferramentas voltadas para:
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nannuxz&layout=compact&theme=tokyonight"/>
 
 </div>
----
+
 
 # ⚙️ Stack
 
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Python" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 
   <img align="center" alt="Linux" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 
   <img align="center" alt="Bash" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
 
   <img align="center" alt="JavaScript" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 
   <img align="center" alt="HTML" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 
   <img align="center" alt="CSS" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
   <img align="center" alt="Git" height="40" width="50"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 
 </div>
 
