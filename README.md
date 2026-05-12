@@ -1,23 +1,110 @@
-## Eaee, eu sou o Nathan! Aqui ta meio parado, mas logo trarei uns projetinhos maneiros para atualizar.
+# 👋 Nathan Lino
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nanu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nanu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nanu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nanu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nanu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" height="132em" alt="Nanu-gif" src="https://media.discordapp.net/attachments/811649788012920883/883357608830967808/20210903_112701.gif">
+```bash
+Security • Automation • Infrastructure • Python
+```
+
+Desenvolvedor com foco em:
+- Red Team
+- Bug Bounty
+- Automação de segurança
+- Infraestrutura
+- Offensive Tooling
+
+Atualmente desenvolvendo ferramentas voltadas para:
+- Recon
+- Enumeração
+- Auditoria
+- Monitoramento
+- APIs e automações
+
+---
+
+<div align="center">
+  <a href="https://github.com/Nannuxz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nannuxz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nannuxz&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
 </div>
 
-##
+---
+
+# ⚙️ Stack
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="Python" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <img align="center" alt="Linux" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+
+  <img align="center" alt="Bash" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+
+  <img align="center" alt="JavaScript" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <img align="center" alt="HTML" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+  <img align="center" alt="CSS" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="center" alt="Git" height="40" width="50"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+</div>
+
+---
+
+# 🚀 Current Interests
+
+- Web Security
+- Active Directory
+- Recon Automation
+- Vulnerability Assessment
+- Internal Infrastructure
+- API Security
+- Offensive Security
+- Python Tooling
+
+---
+
+# 📌 Featured Projects
+
+🔹 Recon automation tools  
+🔹 Infrastructure monitoring  
+🔹 Security dashboards  
+🔹 Internal auditing tools  
+🔹 API integrations  
+🔹 Python automation projects  
+
+---
+
+# 🌐 Links
 
 <div>
-  <a href="https://youtube.com/channel/UCvt9p9Kzs1X0fHQA5SgC3WA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/_nannuxz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/nanuuxz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatonanuuxz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nathan-lino-4bb36a1b6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/Nannuxz/Nanuuxz/blob/output/github-contribution-grid-snake.svg)
-  
-  </div>
+
+  <a href="https://www.linkedin.com/in/nathan-lino-4bb36a1b6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:contatonanuuxz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://instagram.com/_nannuxz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/Nannuxz/Nannuxz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
