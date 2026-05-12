@@ -106,5 +106,5 @@ Atualmente desenvolvendo ferramentas voltadas para:
 # 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/Nannuxz/Nannuxz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/Nannuxz/Nannuxz/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
